@@ -13,7 +13,7 @@ export const site = {
    * Dirección de contacto. Mientras esté vacía, el formulario mostrará un aviso
    * y NO se activará ningún envío. Ejemplo: 'contacto@tudominio.com'
    */
-  contactEmail: '',
+  contactEmail: 'grupomasteria5@pontia.tech',
 
   /** Enlaces legales. Déjalos vacíos hasta disponer de los textos reales. */
   legal: {
